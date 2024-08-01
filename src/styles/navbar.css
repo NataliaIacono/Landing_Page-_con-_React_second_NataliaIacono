@@ -1,9 +1,26 @@
 .navbar {
-    background-color: rgba(49, 212, 230, 0.747);
+    background-color: rgba(58, 60, 60, 0.747);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
+#navbarText {
+    color: white;
+}
+
+.navi-tem {
+    color: white;
+}
+
+.titulo {
     font-size: large;
+    color: white;
 }
 
 .nav-link {
     text-align: left;
+}
+
+.primerboton {
+    color: white;
 }
