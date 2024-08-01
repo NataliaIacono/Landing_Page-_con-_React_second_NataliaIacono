@@ -1,0 +1,9 @@
+.navbar {
+    background-color: rgba(49, 212, 230, 0.747);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.nav-link {
+    text-align: left;
+}
