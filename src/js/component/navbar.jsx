@@ -7,8 +7,9 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg p-2 mb-3 btn-primary mb-0">
             <div className="container-fluid">
                 <h1 className="titulo" href="#">
-                    Turismo
+                    Turismo <i class="fa-solid fa-plane"></i>
                 </h1>
+
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon text-white"></span>
                 </button>
